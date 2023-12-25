@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Merry-Christmas"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "flower-power"
+	}
+}
